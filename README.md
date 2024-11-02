@@ -1,5 +1,5 @@
-#Movie Poster App
-##Features
+###Movie Poster App
+#Features
 Swipeable gallery of movie posters.
 Detailed view for each movie poster, including:
 Title
