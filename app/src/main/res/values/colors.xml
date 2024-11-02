@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primaryColor">#FF416AD3</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="colorTextIcons">#FFFFFF</color>
+    <color name="colorTextPrime">#FF000000</color>
+    <color name="colorRatingActive">#FF9800</color>
+    <color name="colorRatingInActive">#C9C9D1</color>
+    <color name="colorBackground">#EEEEEE</color>
+    <color name="button_background">#FF000000</color> <!-- Change this to your desired color -->
+
+</resources>
